@@ -11,10 +11,10 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-        title: 'Flutter Demo',
+        title: 'Побег из Шоушенка',
         home: Scaffold(
           appBar: AppBar(
-            title: const Text("Flutter Demo"),
+            title: const Text("Побег из Шоушенка"),
             centerTitle: true,
             backgroundColor: Colors.green,
           ),
